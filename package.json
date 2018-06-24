@@ -1,0 +1,10 @@
+{
+  "name": "strip_comments",
+  "version": "0.1.0",
+  "description": "strip_comments",
+  "main": "./main.js",
+  "bin": "./main.js",
+  "author": {
+    "name": "hasezoey"
+  }
+}
