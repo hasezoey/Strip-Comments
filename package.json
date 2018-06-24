@@ -6,5 +6,9 @@
   "bin": "./main.js",
   "author": {
     "name": "hasezoey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasezoey/Strip-Comments.git"
   }
 }

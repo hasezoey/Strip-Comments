@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>02a3425d-581b-40af-afee-84f9295deef6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>strip.js</StartupFile>
+    <StartupFile>main.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
